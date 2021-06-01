@@ -126,7 +126,6 @@ traitlets==5.0.5
 typer==0.3.2
 typing-extensions==3.10.0.0
 tzlocal==2.1
-ubuntu-advantage-tools==27.0
 ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
